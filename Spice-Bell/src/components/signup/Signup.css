@@ -1,0 +1,51 @@
+.container-5 {
+    height: 700px;
+    width: 220vh;
+    background-color: black;
+    border: 2px solid white;
+    margin-top: 1px;
+    background: url('./images/bug.jpg')no-repeat;
+    background-size: 100%;
+    align-items: center;
+    margin-right: 20%;
+}
+
+.form-label-a {
+    color: blanchedalmond;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 700px;
+}
+
+.form-control {
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 450px;
+    background-color: blanchedalmond;
+    margin-left: 525px;
+    margin-top: 15px;
+}
+
+.sign {
+    color: rgb(231, 64, 13);
+    margin-top: 50px;
+    margin-left: 700px;
+}
+
+.sub-a {
+    color: white;
+    background-color: #223820;
+    border-color: #223820;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    margin: 10px;
+    margin-left: 390px; 
+   
+
+}

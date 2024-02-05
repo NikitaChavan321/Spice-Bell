@@ -1,0 +1,10 @@
+.main-footer {
+    color: bisque;
+    background-color: black;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    /* width: 1501px; */
+    font-family: Roboto,sans-serif;
+  }
+ 

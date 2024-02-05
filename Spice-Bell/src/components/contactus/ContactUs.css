@@ -1,0 +1,81 @@
+body {
+    background: -webkit-linear-gradient(to right, black);
+}
+
+.containerA {
+    color: bisque;
+    border-radius: 5px;
+    margin-top: 1px;
+    height: 700px;
+    width:170vh;
+}
+
+.contact-body {
+    text-align: center;
+    color: bisque;
+    border-radius: 5px;
+     background:url('./images/ss.jpg')no-repeat; 
+    background-color: black;
+    margin-bottom: 30px;
+    height: 100vh;
+    width: 213vh;
+    align-items: center;
+    padding: 50px;
+    justify-content: space-evenly; 
+
+ } 
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.contact-body {
+   padding-top: 2px;
+    margin: 5px;
+}
+
+.form__label1 {
+    width: 30%;
+    font-size: 30px;
+    padding: 5px;
+    margin: 3px;
+    font-weight: bold;
+    color: black;
+    margin-left: 60px;
+    margin-top: 34px;
+    font-family: Cambria, Cochin, Georgia, Times, sans-serif;
+}
+
+.form__input1 {
+    width: 25%;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px;
+    margin: 10px;
+    margin-left: 50px;
+    align-items: center;
+    background-color: bisque;
+    border-color: black;
+}
+
+.cont-btn {
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    margin: 20px;
+    background-color: darksalmon;
+    color: black;
+
+}
+
+.get {
+    color: black;
+}
+
+
+
+

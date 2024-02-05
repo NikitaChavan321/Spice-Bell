@@ -1,0 +1,36 @@
+
+.body{
+      background-color: yellow;
+}
+.container-h{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./images/cake-img.webp') no-repeat;
+    background-size: cover;
+    background-position: 0;
+    justify-content: center;
+    text-align: center;
+    position: static;
+    
+}
+.front {
+    color: #fffbf2;
+    position: relative;
+    text-align: center;
+    top: 30%;
+    max-width: 30rem;
+
+}
+.front .title1 {
+    font-size: 20px;
+    color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    padding-top: 1px;
+    margin-top: 3px;
+}
+.front .title2{
+    padding: 0px;
+}

@@ -1,0 +1,58 @@
+.body{
+    width: 100%;
+}
+.Pbtn{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(16, 14, 14);
+    color: whitesmoke;
+    margin: 5px;
+    padding: 10px;
+    margin-left: 75%;
+    font-size: large;
+    border-radius: 10px;
+    
+    
+}
+.container-m{
+    background-color: peru;
+    height:85vh;
+    width: 99.40%;
+    margin: 5px;
+    padding: 10px;
+    background: url('./images/image-1593426982.jpeg')no-repeat ;
+    background-color : white;
+    margin-top: 10px;
+    
+}
+.form-label{
+    color: black;
+    margin: 7px;
+    margin-left: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+.btn-a{
+    background-color: burlywood;
+    color: black;
+    margin: 5px;
+    padding: 3px;
+    margin-left: 13px;
+   
+}
+.btn-b{
+    background-color: burlywood;
+    color: black;
+    margin: 5px;
+    padding: 3px;
+    margin-left: 60px;
+}
+.btn-c{
+    background-color: burlywood;
+    color: black;
+    margin: 5px;
+    padding: 3px;
+    margin-left: 90px;
+}

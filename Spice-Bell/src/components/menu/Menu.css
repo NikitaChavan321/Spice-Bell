@@ -1,0 +1,73 @@
+.product{
+    margin: 20px auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: rgb(44, 42, 40);
+    border-radius: 5px;
+    margin-top: 5px;
+ }
+ 
+ .cards{
+     width: 320px;
+     height: 430px;
+     border: 1px solid rgb(15, 14, 14);
+     border-radius: 5px;
+     overflow: hidden;
+     padding: 10px;
+     margin: 40px 20px;
+     background-color: black;
+     
+ }
+ 
+ .cards:hover{
+     box-shadow: 0 10px 10px 10px rgba(245, 245, 91, 0.236);
+     cursor: pointer;
+     transform: scale(1.05);
+   }
+ 
+ .image_box img{
+     width: 100%;
+     max-width: 300px;
+     min-height:200px ;
+     display: block;
+     object-fit: cover;
+ }
+ 
+ .pro-details p{
+     font-weight: bold;
+     font-size: 20px;
+     text-transform: uppercase;
+     margin: 20px 0px;
+     color: antiquewhite;
+   }
+   .pro-desc p{
+     color: antiquewhite;
+     font-size:13px;
+   }
+   .pro-price p{
+     /* margin-left: 20px; */
+     font-weight: bold;
+     color: darkgoldenrod;
+   }
+ 
+   .pro-btn{
+     margin-left: 30px;
+     width: 30vb;
+     padding: 5px 10px;
+     border: none;
+     font-weight: bold;
+     background-color: burlywood;
+     outline: none;
+     color: black;
+     border-radius: 2px;
+   }
+   
+   .pro-btn:hover{
+     background-color: skyblue;
+   }
+   .pro-btn:active{
+     transform: translateY(2px);
+   }
+ 
